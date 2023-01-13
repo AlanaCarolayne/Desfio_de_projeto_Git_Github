@@ -1,2 +1,3 @@
-# Desfio_de_projeto_Git_Github
-Primeiro desafio de projeto da DIO sobre Git e Github
+## Desafio Git/ Github :computer:
+
+Repositório criado para o Desafio de projeto sobre Git e Github da DIO
